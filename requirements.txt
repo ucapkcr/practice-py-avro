@@ -1,0 +1,9 @@
+annotated-types==0.7.0
+avro==1.11.3
+memoization==0.4.0
+orjson==3.10.6
+py-avro-schema==3.7.3
+pydantic==2.8.2
+pydantic_core==2.20.1
+typeguard==4.3.0
+typing_extensions==4.12.2
