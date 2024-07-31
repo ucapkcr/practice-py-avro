@@ -1,0 +1,8 @@
+{"namespace": "example.avro",
+ "type": "record",
+ "name": "ComplexUser",
+ "fields": [
+     {"name": "name", "type": "string"},
+     {"name": "favorites", "type": "example.avro.Favorites"}
+ ]
+}
